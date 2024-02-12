@@ -13,7 +13,7 @@
             //generate a random number between 1 and 1000
             var favNumber = r.Next(1, 1000);
 
-            Console.WriteLine($"The random num is: {favNumber}");
+           
             //ask user toguess your favorite number is
             Console.WriteLine("Can you guess my favorite number? ");
 
