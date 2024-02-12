@@ -35,7 +35,7 @@
             }
 
 
-            Console.WriteLine(favNumber);
+            Console.WriteLine($"My favorite number is: {favNumber}");
 
             
 
